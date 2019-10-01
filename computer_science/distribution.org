@@ -1,0 +1,47 @@
+* The concept of distributing computations and data
+** Security
+** Versioning
+*** future compatibility
+*** backwards compatibility
+** Isolated execution context (containers/jails)
+** Interfaces and protocols (defining how to communicate)
+*** contracts
+*** publish/subscribe (decoupling)
+*** defining interactions in terms of events, not services
+**** timeouts
+*** correctness
+**** automated tests (integration tests)
+** Dependencies
+** Redundancy
+** Scope / bounded context
+** Autonomous components
+*** There should be no need for an AC to access the query store for processing commands
+** Messaging / queueing
+*** transactions / retry
+** Sync vs. async
+*** [[https://martinfowler.com/bliki/CommandQuerySeparation.html][Command/Query separation]] or mutate/read/compute
+*** Send command vs. Publish event
+**** A command is sent in hopes of mutating data. It may succeed and it may fail.
+**** An event is published when something has happened. It states a fact.
+** Monitoring
+** Paralellism
+** Modelling from a business value perspective
+*** [[http://udidahan.com/2010/08/31/race-conditions-dont-exist/][in business, there's no race conditions]]
+*** Validation vs. business rules
+**** Validation is independent on context
+**** Business rules are dependent on context
+** CAP - consistency, availability and partition tolerance.
+** "Micro" services
+*** [[https://softwareengineering.stackexchange.com/a/359233][Characteristics of an isolated service]]
+** Misc
+*** OO vs micro services? (Conceptually)
+
+#+NAME: <name>
+#+BEGIN_SRC yaml
+event:
+  header:
+    id: a universally unique identifier.
+    name: a value that informs of which type of event this is.
+    created_at: a timestamp informing of the exact time and date when this event was created
+  body: any data
+#+END_SRC
