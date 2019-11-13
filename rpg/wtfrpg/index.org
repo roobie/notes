@@ -1,0 +1,79 @@
+
+* WTFRPG - simple and fun
+
+** Background and purpose
+*** What is fun?
+**** Progress and development
+**** Change
+**** Control
+**** Consequences
+**** Conflicts
+**** (Simplicity)
+
+*** Why this? Or, in other words: what is the problem with familiar systems?
+
+** Overview
+   A game of WTFRPG consists of at least two people, but three or more is
+   recommended. One of the participants play as the Game Leader (GL). Note: not
+   Game Master. The other participants play as Players (P). In WTFRPG, the GL
+   does not wield absolute power over the game.
+   
+   WTFRPG aims to be hackable - both by GLs and Ps.
+
+** Characters
+*** Outline
+    The basic outline of a character in WTFRPG is by the list below. N.B! None
+    of these are static - they should update as the game goes on.
+
+**** Basic stuff
+***** Name, age, looks etc. - "flavor".
+
+**** Background
+***** Experiences
+****** training and education
+****** being exposed to bad stuff
+****** employment and work
+***** People
+****** family
+****** connections
+****** acquantances
+***** Wealth and money
+****** Social positions
+****** Social associations
+
+**** Specializations
+
+**** Goals and incentives
+
+**** Personality and terms of
+***** Behests
+***** Constraints
+
+**** Quirks and traits
+
+*** Rank(s)?
+
+** How to play
+   There are many ways in which you can play role-playing games, but the goal is
+   for everyone to have fun.
+
+*** The characters evolve as the game goes on
+
+*** The Game Master's and the players' assessment and opinions
+    To begin with, one important thing is that a `check` should not occur unless
+    it can fail or succeed in an interesting way.
+
+**** Judgment
+
+** Cause and effect
+
+*** Time and place. I.e. when is it fun to succeed critically. Or: how much of a movie is it?
+
+*** Critical results vs. degrees
+
+** Settings vs. stories
+
+*** General idea
+*** Structure
+**** Campaign > Story > Scene > Action
+**** Conflicts
