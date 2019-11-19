@@ -2,15 +2,32 @@
 * WTFRPG - simple and fun
 
 ** Background and purpose
-*** What is fun?
-**** Progress and development
-**** Change
-**** Control
-**** Consequences
-**** Conflicts
-**** (Simplicity)
 
-*** Why this? Or, in other words: what is the problem with familiar systems?
+*** What is fun?
+
+**** Progress and development
+     A core component of having a good time with one's character, is that the
+     character will progress in a story and develop as time goes on.
+
+**** Control
+     In order for the player to feel that the game is worth their time, the game
+     must react to the inputs of the player. If the game runs as though the
+     player isn't there, then what good is it?
+
+**** Consequences and change
+     Choices that the player make via their avatar must have consequences,
+     otherwise the decisions have no purpose (related to Control).
+
+**** Conflicts
+     A game without conflicts would be bland. If everyone sees eye to eye on
+     everything there would be no action. Conflicts can be mental, verbal,
+     physical etc.
+
+**** (Simplicity)
+     A game in which the mechanics take too much time is no fun because the more
+     focus it gets, the less focus the fun parts get. That is not to say that
+     details are boring, but being detailed must not be a requirement - it
+     should be a tool that can be used in the situations in which it is fun.
 
 ** Overview
    A game of WTFRPG consists of at least two people, but three or more is
@@ -18,40 +35,68 @@
    Game Master. The other participants play as Players (P). In WTFRPG, the GL
    does not wield absolute power over the game.
    
-   WTFRPG aims to be hackable - both by GLs and Ps.
+   WTFRPG aims to be hackable (malleable) - both by GLs and Ps.
 
 ** Characters
+
 *** Outline
     The basic outline of a character in WTFRPG is by the list below. N.B! None
     of these are static - they should update as the game goes on.
 
 **** Basic stuff
 ***** Name, age, looks etc. - "flavor".
+      Elements of flavor should not be something that has a negative effect on
+      the play. If someone wants to be an 80-year old, greataxe-wielding human
+      berzerker, then why not? As long as there is a fun and interesting reason
+      for it.
 
 **** Background
 ***** Experiences
+      Experiences define how a character might act in a certain situation and
+      whether or not they would reasonably be able to perform certain actions.
+
+      Example: Given that a character was a street-urchin as a child, one could
+      think that it is reasonable that they are good at withstanding hunger and
+      thirst and are proficient at pickpocketing. Furthermore, they might hold a
+      grudge against posh, rich people and do not interact in a pleasant manner
+      with those types of characters.
+
+      Points of interest:
 ****** training and education
 ****** being exposed to stuff
 ****** employment and work
+
 ***** People
+      All kinds of relations with other people are interesting in that they are
+      potential story-drivers. Family and friends can lend a helping hand in
+      times of need and enemies might plot to destroy the character. This is not
+      to say that all relations must be mapped out from the beginning, but a
+      couple of examples are nice to be able to lean on when the need arises.
+
+      Points of interest:
 ****** family
 ****** connections
 ****** acquantances
 ****** enemies
+
 ***** Wealth and money
 ****** Social positions
 ****** Social associations
+
 ***** Secrets - or things that embarass you
 
-**** Specializations
+**** Specializations and professions
 
 **** Goals and incentives
 
 **** Personality and terms of conduct
+
 ***** Behests
 ***** Constraints
 
 **** Quirks and traits
+
+**** Characteristic tropes
 
 *** Rank(s)?
 
